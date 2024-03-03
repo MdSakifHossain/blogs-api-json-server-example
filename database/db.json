@@ -1,0 +1,18 @@
+{
+  "blogs": [
+    {
+      "id": "cfbc",
+      "author": "Spider-Man",
+      "title": "Balancing Act: Hero and Homework",
+      "body": "Struggling to finish this chem project while web-slinging across the city! Being a friendly neighborhood Spider-Man is a full-time job (and a half)! #ScienceAndSpideySenses #MultitaskingHero #ResponsibilityNeverEnds ️",
+      "time": 1709391189184
+    },
+    {
+      "id": "fb26",
+      "author": "Hulk",
+      "title": "PUNY CARS BLOCK HULK'S WAY!**",
+      "body": "RED LIGHTS MAKE HULK ANGRY! HULK WANT SMASH, BUT HULK PROMISE AUNT NATASHA NOT TO SMASH!\n\nHULK FIND ALTERNATIVE ROUTE! #HulkTrafficJam #HulkSmashLater #Grrr",
+      "time": 1709433735842
+    }
+  ]
+}
